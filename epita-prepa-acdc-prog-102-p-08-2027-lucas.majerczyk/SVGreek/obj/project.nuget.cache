@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3gVZ/PDbLgvgg9fd6QBm6J4tVYqt10h56gqxl8pEjW/02BA7EQ2/9ovUQZNwI/eXeLBp4LIagLhJ7CZG8gvbA==",
+  "success": true,
+  "projectFilePath": "/Users/lucas/Documents/epita/S2/Prog_tp/epita-prepa-acdc-prog-102-p-08-2027-lucas.majerczyk/SVGreek/SVGreek.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucas/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
